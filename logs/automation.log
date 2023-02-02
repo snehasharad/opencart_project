@@ -186,3 +186,26 @@
 12:40:14.861 [main] INFO  testCases.TC_002_LoginTest - providing login details
 12:40:15.422 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
 12:40:15.470 [main] INFO  testCases.TC_002_LoginTest - **** finished TC_002_LoginTest****
+12:28:07.708 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest *** 
+12:28:08.272 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+12:28:08.959 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+12:28:08.960 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer data
+12:28:12.247 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+12:28:12.297 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating expected message
+12:28:12.299 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Finished TC_001_AccountRegistrationTest *** 
+12:28:14.484 [main] INFO  testCases.TC_002_LoginTest - ****starting TC_002_LoginTest *****
+12:28:14.940 [main] INFO  testCases.TC_002_LoginTest - clicked on my account
+12:28:15.368 [main] INFO  testCases.TC_002_LoginTest - clicked on login
+12:28:15.371 [main] INFO  testCases.TC_002_LoginTest - providing login details
+12:28:15.999 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+12:28:16.050 [main] INFO  testCases.TC_002_LoginTest - **** finished TC_002_LoginTest****
+12:28:18.854 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+12:28:19.745 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+12:47:59.711 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+12:48:03.573 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+12:48:05.390 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+12:48:08.019 [main] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_005_AddToCartPageTest 
+12:57:05.841 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+12:57:09.831 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 
+12:57:11.634 [main] INFO  testCases.TC_005_AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+12:57:14.054 [main] INFO  testCases.TC_005_AddToCartPageTest -  Finished TC_005_AddToCartPageTest 
